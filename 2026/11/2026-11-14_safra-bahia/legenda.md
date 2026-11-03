@@ -11,4 +11,6 @@ Fale com a gente: (77) 99971-4185
 
 Fonte: Conab, 1º levantamento da safra 2026/27, em dados da SEI-BA. Valores estimados.
 
+Imagem ilustrativa.
+
 #Ecoplan #Bahia #OesteBaiano #Agronegócio #Safra2026

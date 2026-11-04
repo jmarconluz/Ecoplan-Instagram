@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Arte (checklist)
 
 Sua propriedade está em dia?

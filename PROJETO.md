@@ -9,7 +9,7 @@ Levar informação correta e útil ao produtor do Oeste Baiano, com as melhores 
 ## Rotina
 
 - Todo dia, às 7h12: atualização sobre agro, publicidade e propaganda, com uma melhoria para o próximo post.
-- Todo dia, às 15h42: pesquisa nas fontes locais e oficiais, rascunho do post do dia seguinte e Story quando houver novidade.
+- Todo dia, às 15h42: pesquisa nas fontes locais e oficiais, rascunhos para deixar os próximos 3 dias preenchidos e Story quando houver novidade. Rascunho sem aprovação não vai ao ar.
 - Toda segunda, às 14h17: análise das grandes empresas do agro e dos resultados da conta.
 
 ## Formato

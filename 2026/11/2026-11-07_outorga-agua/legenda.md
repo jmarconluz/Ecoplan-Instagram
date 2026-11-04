@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Arte
 
 Outorga de água no Oeste da Bahia: quem irriga precisa estar com ela em dia.

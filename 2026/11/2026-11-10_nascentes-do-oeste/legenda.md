@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Arte
 
 Nascentes no Oeste da Bahia: água e produção podem andar do mesmo lado.

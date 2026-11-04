@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Foto real
 
 Silvicultura no Oeste da Bahia: floresta plantada também é produção.

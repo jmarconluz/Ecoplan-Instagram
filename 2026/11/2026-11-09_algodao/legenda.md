@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Foto real
 
 Algodão no Cerrado baiano: da abertura dos capulhos à colheita, cada detalhe conta.

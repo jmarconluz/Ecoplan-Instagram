@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando revisão técnica
+Situação: Agendado
 Formato: Carrossel
 
 Sua lavoura pode estar dispensada de licença, mas isso não resolve tudo.

@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Foto real
 
 Irrigação por pivô central no Oeste da Bahia: água bem planejada é parte da safra.

@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Arte, com Story
 
 Renegociação de dívida rural no Oeste da Bahia: o prazo é contratar no banco até 12/11, não só pedir.

@@ -1,4 +1,4 @@
-Situação: Rascunho, aguardando aprovação
+Situação: Agendado
 Formato: Foto real
 
 Pecuária no Oeste da Bahia: rebanho bem cuidado e fazenda em dia andam juntos.

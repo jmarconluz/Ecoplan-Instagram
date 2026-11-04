@@ -1,5 +1,5 @@
-Situação: Agendado
-Formato: Foto real
+Situação: Rascunho, aguardando aprovação
+Formato: Arte (checklist)
 
 Sua propriedade está em dia?
 

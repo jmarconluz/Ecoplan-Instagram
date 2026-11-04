@@ -16,12 +16,12 @@ Levar informação correta e útil ao produtor do Oeste Baiano, com as melhores 
 
 - Informação técnica (lei, norma, prazo, número ou passo a passo): arte, em imagem, carrossel ou Reel.
 - Data comemorativa: arte.
-- Tema leve ou institucional: foto real.
-- A foto real é o formato mais frequente, e as artes entram de vez em quando.
+- Tema leve ou institucional: foto real de alto padrão, em 4:5 e com a logo integrada, ou arte visual.
+- Artes e fotos em equilíbrio: no máximo 2 fotos seguidas e no máximo 3 artes seguidas.
 
 ## Padrão fixo
 
 - Logo sem fundo branco, integrada à imagem, com degradê suave e sombra leve sobre foto.
-- Foto real, nítida, com luz natural e cena de campo com vida. A referência é a arte de 15/11/2026.
+- Só imagem de alto padrão, no nível das fotos do site: nítida, com cores vivas, céu ou luz bonitos e assunto forte. Foto apagada, nublada ou sem destaque é recusada. As referências são a arte de 15/11/2026 e a de 08/11/2026.
 - Foto sem crédito na imagem ou na legenda, usando só imagens cuja licença dispensa crédito.
 - Lei e dado sempre com fonte citada.

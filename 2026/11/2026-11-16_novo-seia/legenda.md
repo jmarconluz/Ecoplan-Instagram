@@ -1,4 +1,4 @@
-Situação: Rascunho para aprovação
+Situação: Agendado
 Formato: Carrossel
 
 Vem aí o novo SEIA, e o sistema atual sai do ar para testes a partir de 7 de dezembro.

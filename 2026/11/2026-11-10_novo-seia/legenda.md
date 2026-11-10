@@ -1,5 +1,6 @@
 Situação: Agendado
 Formato: Carrossel
+Publicação: 10/11/2026 às 10:30 (substituiu o post de outorga, que passou para 16/11 como rascunho)
 
 Vem aí o novo SEIA, e o sistema atual sai do ar para testes a partir de 7 de dezembro.
 

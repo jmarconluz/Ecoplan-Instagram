@@ -35,5 +35,7 @@ Posicionamento: a Ecoplan faz a regularização completa do imóvel rural, fundi
 - Imóvel rural e tributação (prioridade): ITR, laudo de VTN, atualização e cadastro do CCIR, certificação no Incra (SIGEF), georreferenciamento, topografia.
 - Fundiária e cartorial: retificação de matrícula, desmembramento, unificação, averbações.
 - Órgãos: ICMBio (unidades de conservação federais) e secretarias municipais de meio ambiente.
+- Drone: filmagem e fotos do imóvel.
+- Corretagem de fazendas com análise completa antes da compra, evitando imóveis e regiões com histórico de litígio (sem citar casos; post de corretagem só com o número do CRECI).
 - Defesa do produtor (prioridade): defesa de multas do Inema e do Ibama, desembargo de áreas.
 - Pelo menos 2 posts de serviço por semana, com chamada para o WhatsApp (77) 99971-4185 ou palavra-chave. Sem promessa de resultado. Detalhes na seção "Serviços para divulgar" do documento de referência.

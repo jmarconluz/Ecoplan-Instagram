@@ -1,5 +1,5 @@
-Situação: Agendado
-Formato: Arte
+Situação: Agendado, publicação automática
+Formato: Arte (Bahia em números)
 
 A safra 2026/27 na Bahia em números.
 
@@ -11,6 +11,4 @@ Fale com a gente: (77) 99971-4185
 
 Fonte: Conab, 1º levantamento da safra 2026/27, em dados da SEI-BA. Valores estimados.
 
-Imagem ilustrativa.
-
-#Ecoplan #Bahia #OesteBaiano #Agronegócio #Safra2026
+Observação (11/11/2026): o Reel sobre o mesmo tema, que estava para 14/11 às 18:00, foi remarcado para 21/11 às 08:30 para não haver dois posts de feed sobre o mesmo assunto no mesmo dia.

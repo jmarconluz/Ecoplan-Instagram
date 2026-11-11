@@ -28,7 +28,12 @@ Levar informação correta e útil ao produtor do Oeste Baiano, com as melhores 
 
 ## Serviços para divulgar (11/11/2026)
 
+Posicionamento: a Ecoplan faz a regularização completa do imóvel rural, fundiária, ambiental e, quando preciso, cartorial, com topografia e processos na Receita Federal, no Incra, no ICMBio, no Inema, no Ibama e nas secretarias municipais de meio ambiente.
+
+
 - Ambientais: CAR e CEFIR, outorga de água e poços, licenciamento, inventário florestal, PRAD, regularidade ambiental para crédito rural, CTF.
 - Imóvel rural e tributação (prioridade): ITR, laudo de VTN, atualização e cadastro do CCIR, certificação no Incra (SIGEF), georreferenciamento, topografia.
+- Fundiária e cartorial: retificação de matrícula, desmembramento, unificação, averbações.
+- Órgãos: ICMBio (unidades de conservação federais) e secretarias municipais de meio ambiente.
 - Defesa do produtor (prioridade): defesa de multas do Inema e do Ibama, desembargo de áreas.
 - Pelo menos 2 posts de serviço por semana, com chamada para o WhatsApp (77) 99971-4185 ou palavra-chave. Sem promessa de resultado. Detalhes na seção "Serviços para divulgar" do documento de referência.

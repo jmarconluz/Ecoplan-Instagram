@@ -25,3 +25,10 @@ Levar informação correta e útil ao produtor do Oeste Baiano, com as melhores 
 - Só imagem de alto padrão, no nível das fotos do site: nítida, com cores vivas, céu ou luz bonitos e assunto forte. Foto apagada, nublada ou sem destaque é recusada. As referências são a arte de 15/11/2026 e a de 08/11/2026.
 - Foto sem crédito na imagem ou na legenda, usando só imagens cuja licença dispensa crédito.
 - Lei e dado sempre com fonte citada.
+
+## Serviços para divulgar (11/11/2026)
+
+- Ambientais: CAR e CEFIR, outorga de água e poços, licenciamento, inventário florestal, PRAD, regularidade ambiental para crédito rural, CTF.
+- Imóvel rural e tributação (prioridade): ITR, laudo de VTN, atualização e cadastro do CCIR, certificação no Incra (SIGEF), georreferenciamento, topografia.
+- Defesa do produtor (prioridade): defesa de multas do Inema e do Ibama, desembargo de áreas.
+- Pelo menos 2 posts de serviço por semana, com chamada para o WhatsApp (77) 99971-4185 ou palavra-chave. Sem promessa de resultado. Detalhes na seção "Serviços para divulgar" do documento de referência.

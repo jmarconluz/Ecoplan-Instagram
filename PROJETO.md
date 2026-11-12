@@ -35,8 +35,17 @@ Posicionamento: a Ecoplan faz a regularização completa do imóvel rural, fundi
 - Imóvel rural e tributação (prioridade): ITR, laudo de VTN, atualização e cadastro do CCIR, certificação no Incra (SIGEF), georreferenciamento, topografia.
 - Fundiária e cartorial: retificação de matrícula, desmembramento, unificação, averbações.
 - Órgãos: ICMBio (unidades de conservação federais) e secretarias municipais de meio ambiente.
-- Drone: filmagem e fotos do imóvel.
+- Drone: sensoriamento remoto visual, filmagem e fotos do imóvel.
+- Receita Federal: ITR, DITR, CAFIR e laudo de VTN.
+- Incra: georreferenciamento, certificação no SIGEF, CCIR e SNCR; averbação da certificação no cartório; serviços topográficos.
+- Base completa de serviços, com a legislação de cada um e ideias de pauta: SERVICOS.md (12/11/2026). Use-a para posts, Reels e Stories, mostrando a experiência da Ecoplan em cada área.
 - Laudo de contestação de alerta do Prodes e do MapBiomas (área apontada como desmatamento que trava crédito ou gera embargo).
 - Consultoria imobiliária rural (nunca usar "corretagem" nos posts), com análise completa antes da compra, evitando imóveis e regiões com histórico de litígio (sem citar casos; post que anuncie fazenda à venda ou ofereça intermediação só com "CRECI-BA nº 35545").
 - Defesa do produtor (prioridade): defesa de multas do Inema e do Ibama, desembargo de áreas.
 - Pelo menos 2 posts de serviço por semana, com chamada para o WhatsApp (77) 99971-4185 ou palavra-chave. Sem promessa de resultado. Detalhes na seção "Serviços para divulgar" do documento de referência.
+
+## Story e Reel conforme a notícia (12/11/2026)
+
+- Um Story por dia, todos os dias, agendado nos próximos 7 dias, com publicação automática.
+- Notícia urgente com prazo ou alerta: Story no mesmo dia ou no dia seguinte. Notícia importante com dados ou passo a passo: Reel (13 a 16 s) ou carrossel. Notícia menor: só Story.
+- Em cada 7 dias, pelo menos 1 post ou Story de um serviço de SERVICOS.md seções 1 a 6 (ITR e VTN, Incra, topografia, cartório, drone, consultoria imobiliária).

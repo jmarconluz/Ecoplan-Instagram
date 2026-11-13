@@ -17,5 +17,5 @@ Fontes:
 - https://aiba.org.br/programacao-do-2o-fiba-reune-especialistas-renomados-para-debater-a-produtividade-sustentavel-no-matopiba/
 - https://aiba.org.br/ii-fiba-abre-inscricoes-para-debater-eficiencia-e-gestao-hidrica-no-agronegocio/
 
-Observação (13/11/2026): substitui o Reel "Safra 2026/27 na Bahia" (dados do 1º levantamento da Conab), que repetia o tema do post de 14/11 e ficou superado pelo 2º levantamento de 13/11/2026.
+Observação (13/11/2026): substitui o Reel "Safra 2026/27 na Bahia" (dados do 1º levantamento da Conab), que repetia o tema do post de 14/11 (o 2º levantamento da Conab, de 13/11/2026, manteve os mesmos números e já entra no post de 14/11).
 Imagem de fundo: vista aérea de pivôs (domínio público, banco da conta).

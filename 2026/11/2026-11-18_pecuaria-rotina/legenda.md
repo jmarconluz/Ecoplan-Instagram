@@ -6,4 +6,7 @@ Pecuária no Oeste da Bahia: rebanho bem cuidado começa no pasto.
 
 Água, sombra, pasto bem manejado e rotina de campo fazem diferença no dia a dia de quem cria. E a gente fica do lado do produtor para essa produção seguir firme e dentro da lei.
 
-Como está o pasto aí na sua fazenda agora? Conta aqui nos comentários.
+Sua fazenda já tem o georreferenciamento certificado no Incra (SIGEF)? Comente GEO ou chame a Ecoplan: (77) 99971-4185.
+
+
+Corrigido em 14/11/2026: linha de serviço com palavra-chave (frentes de serviço).

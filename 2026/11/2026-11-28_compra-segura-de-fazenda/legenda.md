@@ -1,4 +1,4 @@
-Situação: Agendado, publicação automática
+Situação: Substituído em 14/11/2026 no rebalanceamento das frentes de serviço (não vai ao ar nesta data; ver a pasta nova do mesmo dia)
 Formato: Arte (série Checklist do produtor, foto)
 Serviço em destaque: consultoria imobiliária rural (compra segura de fazendas)
 

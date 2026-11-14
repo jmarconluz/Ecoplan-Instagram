@@ -1,4 +1,4 @@
-Situação: Agendado, publicação automática
+Situação: Substituído em 14/11/2026 no rebalanceamento das frentes de serviço (não vai ao ar nesta data; ver a pasta nova do mesmo dia)
 Formato: Foto real (1080x1350, logo integrado)
 Serviço em destaque: relacionamento
 

@@ -1,4 +1,4 @@
-Situação: Agendado, publicação automática
+Situação: Movido para 28/11/2026 (pasta 2026-11-28_car-e-cefir) no rebalanceamento de 14/11
 Formato: Arte (série Lei sem complicação, foto)
 Serviço em destaque: CAR e CEFIR
 

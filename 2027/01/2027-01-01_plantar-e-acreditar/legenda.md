@@ -5,7 +5,7 @@ Tipo: data especial
 Publicação prevista: 01/01/2027, feed às 08:30 e Story às 12:00
 Chamada: pergunta nos comentários
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 Observação: Arte refeita em 25/11/2026 (tarde), a pedido do dono da conta, que achou a primeira versão pouco trabalhada: agora o 2027 é feito de folhas e está plantado na lavoura, com o primeiro sol do ano dentro do zero, fogos no céu e mudas novas nas linhas. No lugar da notícia do dia. Em 04/01, o rodízio de serviços recomeça pela Receita Federal.
 
 LEGENDA

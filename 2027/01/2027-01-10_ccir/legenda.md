@@ -6,7 +6,7 @@ Serviço: Incra: atualização do cadastro e emissão do CCIR
 Publicação prevista: 10/01/2027, feed às 08:30 e Story às 12:00
 Chamada: CCIR
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 Observação: Conferir na véspera, no site do Incra, se o CCIR vigente continua sendo o do exercício de 2026 (o de 2027 costuma sair no meio do ano). O cartão do CCIR é uma ilustração própria, diferente do cartão usado em 29/11.
 
 LEGENDA

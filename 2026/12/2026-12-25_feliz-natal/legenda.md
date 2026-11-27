@@ -4,7 +4,7 @@ Também no Google: atualização no Perfil da Empresa, 25/12/2026 às 08:30 (ver
 Tipo: data especial
 Publicação prevista: 25/12/2026, feed às 08:30 e Story às 12:00
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Versão do Google refeita com a nova arte em 27/11/2026; o Story segue com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 
 LEGENDA
 
@@ -39,4 +39,4 @@ Equipe Ecoplan
 TEXTO ALTERNATIVO
 - arte.jpg: Ilustração de uma família de três gerações reunida em frente à sede da fazenda, ao lado de uma árvore de Natal, com a lavoura e uma colheitadeira ao fundo, na luz dourada da tarde. 25 de dezembro. Feliz Natal. A colheita mais bonita do ano é a família reunida. Feliz Natal à grande família do agro do Oeste Baiano. É o que deseja a família Ecoplan.
 - story.jpg: Cartaz verde com luzes de Natal desfocadas e as palavras Feliz Natal em letras brancas grandes; as duas letras A são árvores de Natal. 25 de dezembro: que o seu Natal seja de casa cheia e coração em paz.
-- google.jpg: Arte da Ecoplan em verde com luzes desfocadas: Feliz Natal em letras brancas grandes, com as duas letras A em forma de árvore de Natal. A colheita mais bonita do ano é a família reunida. Feliz Natal à grande família do agro do Oeste Baiano.
+- google.jpg: Arte da Ecoplan em verde-escuro com curvas de nível e, à direita, a ilustração de uma família de três gerações reunida em frente à sede da fazenda, ao lado da árvore de Natal, com a lavoura e uma colheitadeira ao fundo. Feliz Natal, 25 de dezembro: a colheita mais bonita do ano é a família reunida. Feliz Natal à grande família do agro do Oeste Baiano.

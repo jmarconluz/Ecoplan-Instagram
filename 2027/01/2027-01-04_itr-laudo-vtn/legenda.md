@@ -6,7 +6,7 @@ Serviço: Receita Federal: laudo de avaliação do VTN e apoio no ITR
 Publicação prevista: 04/01/2027, feed às 08:30 e Story às 12:00
 Chamada: ITR
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 Observação: Formato novo, Acontece no campo, feito a partir do modelo enviado pelo dono da conta em 25/11/2026: cena do dia a dia, com dia, hora e a frase que o produtor escuta. No lugar da foto de pessoa, ilustração da fazenda. A legenda avisa que a Ecoplan voltou do recesso. Primeiro serviço do rodízio de janeiro.
 
 LEGENDA

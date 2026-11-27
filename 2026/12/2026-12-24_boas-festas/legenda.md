@@ -5,7 +5,7 @@ Tipo: data especial
 Publicação prevista: 24/12/2026, feed às 08:30 e Story às 12:00
 Chamada: pergunta nos comentários
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 
 LEGENDA
 

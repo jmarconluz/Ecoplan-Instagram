@@ -6,7 +6,7 @@ Serviço: Topografia: demarcação de divisas e locação de cercas
 Publicação prevista: 28/01/2027, feed às 08:30 e Story às 12:00
 Chamada: TOPOGRAFIA
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 Observação: Carrossel com cenas em perspectiva (cerca, marcos e receptor GNSS), diferente dos mapas de relevo usados em 11/12. Os equipamentos aparecem sem pessoas.
 
 LEGENDA

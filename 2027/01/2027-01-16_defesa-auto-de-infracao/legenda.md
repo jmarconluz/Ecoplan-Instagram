@@ -6,7 +6,7 @@ Serviço: Multas e embargos: defesa de auto de infração ambiental e pedido de 
 Publicação prevista: 16/01/2027, feed às 08:30 e Story às 12:00
 Chamada: DEFESA
 Marcar como feito com IA: sim (contém ilustração)
-Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior. O arquivo original do Gemini está em gemini-original.png.
 Observação: Troca de 25/11/2026: substitui a pauta da consultoria imobiliária (compra de fazenda), que repetia as informações de 23/11 e de 23/12. A defesa de auto de infração ainda não tinha saído no feed nesta programação. Série Acontece no campo: cena criada para a peça, sem cliente, fazenda, pessoa ou processo real. Base legal já conferida nas peças de 19/11 (Lei nº 9.605/1998, art. 71, I; Decreto nº 6.514/2008, art. 15-B). A consultoria imobiliária volta em fevereiro, com outro enfoque.
 
 LEGENDA

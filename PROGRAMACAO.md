@@ -54,4 +54,4 @@ As pastas abaixo estão neste ramo (`publicacoes`). Os links "raw" do GitHub sã
 - Pendentes: 26/01 (o vídeo do Reel, de 6 MB, ainda não está neste ramo) e 29/01 (notícia da semana, a fazer na véspera).
 - Conferir na véspera: 27/12, 02/01, 08/01, 14/01 e 20/01.
 - Galeria com todas as artes: https://claude.ai/artifact/LZiCVnVxMa2t7tuxwZ1wia
-- Conferência semanal das notícias: toda segunda-feira, às 06:56. O resultado fica em NOTICIAS.md.
+- Programação automática: toda segunda-feira, às 06:56, uma tarefa confere as notícias na fonte oficial, corrige o que mudou e agenda os dias que faltam nas 3 semanas seguintes. O registro fica em NOTICIAS.md; o padrão das artes, em marca/ESTILO.md.

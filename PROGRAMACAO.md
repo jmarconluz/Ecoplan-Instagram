@@ -46,3 +46,11 @@ As pastas abaixo estão neste ramo (`publicacoes`). Os links "raw" do GitHub sã
 
 - Alerta do SEIA: capa refeita para 30/11 ("Falta 1 semana", calendário de 30/11 a 04/12).
 - Algodão: marcador da linha do tempo trocado para "20/01 · faltam 21 dias".
+
+## Situação no Metricool (27/11/2026, 10:35)
+
+- Agendados e conferidos: 24 dias, de 27/11 a 31/01, feed às 08:30 (27/11 às 11:00) e Story às 12:00, com as artes baixadas deste ramo.
+- Sem Story no dia: 06/12 (Reel do drone) e 21/12 (soja).
+- Pendentes: 26/01 (o vídeo do Reel, de 6 MB, ainda não está neste ramo) e 29/01 (notícia da semana, a fazer na véspera).
+- Conferir na véspera: 27/12, 02/01, 08/01, 14/01 e 20/01.
+- Galeria com todas as artes: https://claude.ai/artifact/LZiCVnVxMa2t7tuxwZ1wia

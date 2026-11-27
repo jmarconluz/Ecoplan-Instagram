@@ -5,6 +5,7 @@ Tipo: data especial
 Publicação prevista: 24/12/2026, feed às 08:30 e Story às 12:00
 Chamada: pergunta nos comentários
 Marcar como feito com IA: sim (contém ilustração)
+Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
 
 LEGENDA
 
@@ -35,6 +36,6 @@ No Oeste Baiano, o agro também é feito por famílias: pais que ensinam, filhos
 A Ecoplan deseja boas festas a você e à sua família.
 
 TEXTO ALTERNATIVO
-- arte.jpg: Cartaz com as palavras BOAS FESTAS em letras grandes, preenchidas com lavouras vistas do alto nas cores da colheita, sobre fundo verde-escuro com brilhos dourados. Véspera de Natal: a ceia desta noite começa no campo.
+- arte.jpg: Ilustração de uma família do campo reunida à mesa da ceia de Natal, na varanda da sede, com árvore de Natal, cordão de luzes e a lavoura ao fundo, à noite. Véspera de Natal. Boas festas. A ceia desta noite começa no campo. Boas festas a cada família que planta, colhe e cuida da terra o ano inteiro.
 - story.jpg: Cartaz com as palavras BOAS FESTAS em letras grandes, preenchidas com lavouras vistas do alto nas cores da colheita, sobre fundo verde-escuro com brilhos dourados. Véspera de Natal: que a ceia de hoje reúna quem você ama.
 - google.jpg: Arte da Ecoplan em verde-escuro com brilhos dourados: as palavras BOAS FESTAS em letras grandes, preenchidas com lavouras vistas do alto. Véspera de Natal: a ceia desta noite começa no campo. Boas festas a cada família que planta, colhe e cuida da terra o ano inteiro.

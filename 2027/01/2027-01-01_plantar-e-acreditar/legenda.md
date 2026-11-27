@@ -5,7 +5,8 @@ Tipo: data especial
 Publicação prevista: 01/01/2027, feed às 08:30 e Story às 12:00
 Chamada: pergunta nos comentários
 Marcar como feito com IA: sim (contém ilustração)
-Observação: Arte refeita em 25/11/2026 (tarde), a pedido do dono da conta, que achou a primeira versão pouco trabalhada: agora o 2027 é feito de folhas e está plantado na lavoura, com o primeiro sol do ano dentro do zero, fogos no céu e mudas novas nas linhas. No Metricool, o post, o Story e o Google de 01/01 continuam agendados com a arte antiga (2027 com o zero como pivô) até a troca ser autorizada. No lugar da notícia do dia. Em 04/01, o rodízio de serviços recomeça pela Receita Federal.
+Arte do feed (arte.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
+Observação: Arte refeita em 25/11/2026 (tarde), a pedido do dono da conta, que achou a primeira versão pouco trabalhada: agora o 2027 é feito de folhas e está plantado na lavoura, com o primeiro sol do ano dentro do zero, fogos no céu e mudas novas nas linhas. No lugar da notícia do dia. Em 04/01, o rodízio de serviços recomeça pela Receita Federal.
 
 LEGENDA
 
@@ -35,7 +36,7 @@ Que 2027 traga chuva na hora certa, lavoura sadia, rebanho forte e boa colheita 
 A Ecoplan agradece a confiança de produtores, clientes e parceiros em 2026. Em 2027, seguimos ao seu lado, há mais de 35 anos cuidando da regularização do imóvel rural.
 
 TEXTO ALTERNATIVO
-- arte.jpg: Ilustração de uma lavoura ao amanhecer, com o número 2027 formado por folhas verdes, de pé sobre o solo plantado. O primeiro sol do ano nasce dentro do zero, fogos de artifício enfeitam o céu e mudas novas brotam nas linhas de plantio. Feliz 2027. Plantar é acreditar no amanhã. Que o novo ano renove a esperança de quem prepara o solo, planta e colhe. Feliz Ano Novo da família Ecoplan.
+- arte.jpg: Ilustração de uma lavoura ao amanhecer, com o número 2027 formado por folhagens verdes, de pé sobre o solo plantado; o sol nasce dentro do zero e fogos de artifício enfeitam o céu. 1º de janeiro. Feliz 2027. Plantar é acreditar no amanhã. Que o novo ano renove a esperança de quem prepara o solo, planta e colhe. Feliz Ano Novo da família Ecoplan.
 - story.jpg: Ilustração de uma lavoura ao amanhecer, com o número 2027 formado por folhas verdes, o sol nascendo dentro do zero e fogos de artifício no céu. Feliz 2027. Plantar é acreditar no amanhã. Que o novo ano renove a esperança de quem prepara o solo, planta e colhe. Feliz Ano Novo da família Ecoplan.
 - google.jpg: Arte da Ecoplan em verde-escuro com curvas de nível e a ilustração do número 2027 feito de folhas, com o sol nascendo dentro do zero e fogos no céu: plantar é acreditar no amanhã. Feliz Ano Novo da família Ecoplan a quem prepara o solo, planta e colhe no Oeste Baiano.
 

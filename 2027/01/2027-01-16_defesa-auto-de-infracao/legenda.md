@@ -6,6 +6,7 @@ Serviço: Multas e embargos: defesa de auto de infração ambiental e pedido de 
 Publicação prevista: 16/01/2027, feed às 08:30 e Story às 12:00
 Chamada: DEFESA
 Marcar como feito com IA: sim (contém ilustração)
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
 Observação: Troca de 25/11/2026: substitui a pauta da consultoria imobiliária (compra de fazenda), que repetia as informações de 23/11 e de 23/12. A defesa de auto de infração ainda não tinha saído no feed nesta programação. Série Acontece no campo: cena criada para a peça, sem cliente, fazenda, pessoa ou processo real. Base legal já conferida nas peças de 19/11 (Lei nº 9.605/1998, art. 71, I; Decreto nº 6.514/2008, art. 15-B). A consultoria imobiliária volta em fevereiro, com outro enfoque.
 
 LEGENDA
@@ -48,7 +49,7 @@ A Ecoplan analisa o auto, reúne os documentos e prepara a defesa técnica dentr
 Fonte: Lei nº 9.605, de 1998, art. 71, I; Decreto nº 6.514, de 2008, art. 15-B.
 
 TEXTO ALTERNATIVO
-- slide-1.jpg: Ilustração de uma fazenda no fim da tarde, com mata à esquerda, a sede ao fundo e uma caminhonete branca na estrada. Acontece no campo. Terça-feira, 15h40: a fiscalização esteve na fazenda e deixou um auto de infração. Ecoplan, regularização do imóvel rural.
+- slide-1.jpg: Ilustração de uma fazenda no fim da tarde, com mata à esquerda, a sede ao fundo, chapadas no horizonte e uma caminhonete branca na estrada. Acontece no campo. Terça-feira, 15h40: a fiscalização esteve na fazenda e deixou um auto de infração. Ecoplan, regularização do imóvel rural. Arraste para o lado.
 - slide-2.jpg: Ilustração de dois documentos, um auto de infração e um termo de embargo. No mesmo dia: o que fazer ao receber o auto. Anote a data do recebimento: o prazo da defesa conta a partir da ciência do auto. Guarde tudo o que foi entregue: auto de infração, termo de embargo e notificações. Leia o que foi apontado: a infração descrita, a área e o valor da multa. Fonte: Lei nº 9.605/1998, art. 71, I.
 - slide-3.jpg: Ilustração de um calendário com 20 dias numerados, do dia 1, depois da ciência do auto, ao dia 20, fim do prazo. O prazo da defesa começa na ciência do auto. 20 dias: no processo do Ibama, para apresentar defesa ou impugnação. Estado: no Inema e nos municípios, o prazo pode ser outro; confira na notificação. Defesa fora do prazo pode não ser analisada. Fonte: Lei nº 9.605/1998, art. 71, I.
 - slide-4.jpg: Ilustração de duas imagens aéreas de talhões, marcadas antes e depois, e de um laudo técnico com ART. A defesa: uma boa defesa se apoia em provas. Documentos do imóvel: licenças, outorgas, CAR e autorizações de supressão. Imagens de várias datas: o histórico da área visto por satélite. Laudo técnico com ART: a análise do que foi apontado no auto. O embargo só termina por decisão do órgão ambiental. Fonte: Decreto nº 6.514/2008, art. 15-B.

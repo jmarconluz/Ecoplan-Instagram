@@ -6,6 +6,7 @@ Serviço: Incra: atualização do cadastro e emissão do CCIR
 Publicação prevista: 10/01/2027, feed às 08:30 e Story às 12:00
 Chamada: CCIR
 Marcar como feito com IA: sim (contém ilustração)
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
 Observação: Conferir na véspera, no site do Incra, se o CCIR vigente continua sendo o do exercício de 2026 (o de 2027 costuma sair no meio do ano). O cartão do CCIR é uma ilustração própria, diferente do cartão usado em 29/11.
 
 LEGENDA
@@ -42,7 +43,7 @@ Três pontos para conferir: o exercício do certificado (em janeiro de 2027, o v
 A Ecoplan atualiza o cadastro no Incra e emite o CCIR. Fale com a Ecoplan pelos contatos deste perfil.
 
 TEXTO ALTERNATIVO
-- slide-1.jpg: Capa sobre ilustração da entrada de uma fazenda no fim da tarde, com porteira aberta, estrada de terra, cerca, ipê-rosa e a sede ao fundo. Incra, CCIR. Vender, arrendar ou dividir a fazenda? O CCIR vem antes. Arraste para o lado.
+- slide-1.jpg: Capa sobre ilustração da entrada de uma fazenda ao pôr do sol, com porteira de madeira aberta, estrada de terra, cerca, árvores do cerrado, lavoura e a sede com silos ao fundo, entre chapadas. Incra, CCIR. Vender, arrendar ou dividir a fazenda? O CCIR vem antes. Arraste para o lado.
 - slide-2.jpg: Slide 2, o que é: ilustração de um cartão de identidade do imóvel, com um mapa pequeno, a sigla CCIR, Certificado de Cadastro de Imóvel Rural, e os selos Exercício 2026 e Taxa quitada. O CCIR é a identidade do imóvel no Incra: comprova o cadastro do imóvel no Sistema Nacional de Cadastro Rural (SNCR); é emitido a cada exercício, e o de 2026 está disponível desde 19/05/2026; vale com a taxa de serviços cadastrais quitada. Lei nº 4.947/1966, art. 22; Incra.
 - slide-3.jpg: Slide 3, a exigência: ilustração de uma porteira fechada com corrente e cadeado, em dia nublado. Sem CCIR, o negócio não sai: venda e promessa de venda, arrendamento e hipoteca, desmembramento e partilha. A partilha de herança não é homologada sem ele. A lei prevê a nulidade do ato feito sem o certificado. Lei nº 4.947/1966, art. 22, §§ 1º e 2º.
 - slide-4.jpg: Slide 4, a conferência: ilustração do cartão do CCIR com uma lupa sobre os selos Exercício 2026 e Taxa quitada. O que conferir no seu CCIR: o exercício do certificado, que em janeiro é o de 2026; a quitação da taxa, sem a qual o certificado não tem validade; os dados do cadastro, código, detentor, nome e localização do imóvel, que vão para a escritura. Acompanha o ITR dos últimos cinco exercícios. Lei nº 4.947/1966, art. 22, §§ 3º e 6º; Incra.

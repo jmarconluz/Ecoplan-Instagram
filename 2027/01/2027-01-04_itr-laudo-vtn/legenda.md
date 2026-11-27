@@ -6,6 +6,7 @@ Serviço: Receita Federal: laudo de avaliação do VTN e apoio no ITR
 Publicação prevista: 04/01/2027, feed às 08:30 e Story às 12:00
 Chamada: ITR
 Marcar como feito com IA: sim (contém ilustração)
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
 Observação: Formato novo, Acontece no campo, feito a partir do modelo enviado pelo dono da conta em 25/11/2026: cena do dia a dia, com dia, hora e a frase que o produtor escuta. No lugar da foto de pessoa, ilustração da fazenda. A legenda avisa que a Ecoplan voltou do recesso. Primeiro serviço do rodízio de janeiro.
 
 LEGENDA
@@ -42,7 +43,7 @@ O ITR de 2027 já tem data de referência: o fato gerador e o VTN são os de 1º
 A Ecoplan elabora o laudo de avaliação do VTN e apoia a declaração e a defesa do ITR. Fale com a Ecoplan pelos contatos deste perfil.
 
 TEXTO ALTERNATIVO
-- slide-1.jpg: Capa no formato cena do dia a dia, sobre ilustração de uma fazenda pela manhã, com sede, caminhonete, estrada de terra, cerca, ipê-amarelo e lavoura em linhas. Cartão com o dia e a hora, segunda-feira, 8h10, e a frase: bom dia, a Receita Federal questionou o valor da terra declarado no ITR da fazenda. Ecoplan, regularização do imóvel rural. Arraste para o lado.
+- slide-1.jpg: Capa no formato cena do dia a dia, sobre ilustração de uma fazenda pela manhã, com sede, galpão, caminhonete, trator, estrada de terra, ipê-amarelo e lavoura em linhas. Cartão com o dia e a hora, segunda-feira, 8h10, e a frase: bom dia, a Receita Federal questionou o valor da terra declarado no ITR da fazenda. Ecoplan, regularização do imóvel rural. Arraste para o lado.
 - slide-2.jpg: Slide 2, a conferência: ilustração de um cartão com duas barras, o valor da terra nua declarado no ITR e o dos preços de terras do sistema da Receita, com a diferença marcada. O que a Receita compara no ITR: o valor declarado da terra nua, que é uma autoavaliação a preço de mercado; os preços do sistema da Receita, base do lançamento em caso de subavaliação; e as áreas informadas, área total, área tributável e grau de utilização. Subavaliação: o imposto é lançado de ofício. Lei nº 9.393/1996, arts. 8º, 10 e 14.
 - slide-3.jpg: Slide 3, o laudo: ilustração de uma fazenda com sede e silos marcados como benfeitorias, a lavoura como culturas, a mata como Reserva Legal e APP e o solo como terra nua. O laudo de VTN sustenta o valor. Avaliação técnica do imóvel, pela norma ABNT NBR 14.653-3; só a terra nua entra no valor, sem benfeitorias, culturas, pastagens cultivadas e florestas plantadas; APP e Reserva Legal ficam fora da área tributável. Laudo com responsável técnico e ART.
 - slide-4.jpg: Slide 4, a data-base: ilustração de um cartão com o dia 1º de janeiro e os doze meses do exercício de 2027. O ITR de 2027 já tem data de referência. 1º/01: fato gerador do imposto, para quem tem a propriedade, o domínio útil ou a posse; 1º/01: data-base do VTN, o preço de mercado da terra nesse dia; 5 anos: ITR quitado, exigido no crédito rural e em cartório. Declaração no prazo fixado pela Receita Federal. Lei nº 9.393/1996, arts. 1º, 8º, 20 e 21.

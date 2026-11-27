@@ -6,6 +6,7 @@ Serviço: Topografia: demarcação de divisas e locação de cercas
 Publicação prevista: 28/01/2027, feed às 08:30 e Story às 12:00
 Chamada: TOPOGRAFIA
 Marcar como feito com IA: sim (contém ilustração)
+Arte do feed (slide-1.jpg): versão refinada no Gemini, aprovada pelo dono da conta em 27/11/2026, ajustada para 1080 × 1350 e trocada no Metricool. Story e versão do Google seguem com a arte anterior.
 Observação: Carrossel com cenas em perspectiva (cerca, marcos e receptor GNSS), diferente dos mapas de relevo usados em 11/12. Os equipamentos aparecem sem pessoas.
 
 LEGENDA
@@ -42,7 +43,7 @@ No fim do serviço, ficam a planta e o memorial descritivo, os marcos e piquetes
 A Ecoplan faz a demarcação de divisas e a locação de cercas, com responsável técnico e ART. Fale com a Ecoplan pelos contatos deste perfil.
 
 TEXTO ALTERNATIVO
-- slide-1.jpg: Capa sobre ilustração de uma cerca nova entre o pasto e a lavoura, pela manhã, com um receptor GNSS sobre tripé, dois marcos de concreto e a linha da divisa tracejada no chão, um pouco afastada da cerca. Topografia. A cerca nova está mesmo na divisa? Arraste para o lado.
+- slide-1.jpg: Capa sobre ilustração de uma cerca nova entre o pasto e a lavoura, no fim da tarde, com chapadas ao fundo, um receptor GNSS sobre tripé, dois marcos de concreto e a linha da divisa tracejada no chão, um pouco afastada da cerca. Topografia. A cerca nova está mesmo na divisa? Arraste para o lado.
 - slide-2.jpg: Slide 2, o problema: ilustração de uma cerca que se afasta da linha da divisa registrada, desenhada no chão, no fim da tarde. Por que a cerca sai do lugar: marcos antigos ou perdidos, referências que sumiram com o tempo; linha traçada a olho, em que um pequeno desvio vira metros no fim da cerca; descrição antiga na matrícula, com rumos e distâncias que não fecham em campo.
 - slide-3.jpg: Slide 3, a solução: ilustração de um receptor GNSS sobre tripé em um marco de concreto, com a linha da divisa no chão e a etiqueta Vértice medido. Como a topografia loca a divisa: levantamento com GNSS, com as coordenadas de cada vértice medidas em campo; conferência com o registro, em que a linha segue a matrícula e o georreferenciamento; marcos implantados, para a cerca seguir a divisa. Serviço com responsável técnico e ART (Lei nº 6.496/1977).
 - slide-4.jpg: Slide 4, a entrega: ilustração de uma cerca construída sobre a linha da divisa, com marcos de concreto, em dia nublado. O que fica no fim do serviço: planta e memorial descritivo, com as medidas e as coordenadas da divisa; marcos e piquetes no terreno, a referência para construir a cerca; arquivos digitais, para o GPS e para os projetos da fazenda. Divisa certa evita retrabalho e conflito com o vizinho.
